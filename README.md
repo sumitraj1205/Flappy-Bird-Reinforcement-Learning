@@ -52,7 +52,7 @@ All hyperparameters (learning rate, discount factor, epsilon decay, replay buffe
 
 The trained agent playing Flappy Bird:
 
-![Gameplay demo](assets/gameplay.gif)
+![Gameplay demo](assets/Animation.gif)
 
 ## 📝 How It Works
 
